@@ -57,4 +57,5 @@ Le projet implémente une politique de routage intelligente basée sur les commu
 Ouvrez le projet GNS3 correspondant à votre fichier `intent.json` et allumez les routeurs. 
 
 ---
-**Auteurs** : Camille Sarraméa, Quentin Zimmer, Martin Bonnard, Wassim Jahid
+**Auteurs originaux** : Camille Sarraméa, Quentin Zimmer, Martin Bonnard, Wassim Jahid
+**continuation du projet** Wassim Jahid, Ugo Martin, Alexis Rizza
