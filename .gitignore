@@ -1,0 +1,7 @@
+#on ignore les fichiers de configs
+*.cfg
+*.vpc
+*.txt
+
+#on ignore le dossier GNS3
+*/
