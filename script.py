@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from ospf_routing import Ospf_Routing
+from ospfv2_routing import Ospf_Routing
 from rip_routing import rip_routing
 from drag_and_drop import drag_and_drop
 from bgp_routing_communities import writeBGPconfig
